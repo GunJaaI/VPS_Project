@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Graffity ARCloud/0.3.2/AR Cloud Sample/Scenes/ARCloudSampleScene_BackUP.unity
+    guid: 484b0996425cad842888fef3deaf4474
+  - enabled: 0
+    path: Assets/Samples/Graffity ARCloud/0.3.2/AR Cloud Sample/Scenes/ARCloudSampleScene.unity
+    guid: 7f672f1ece5753d4db900b2e6255a9c4
+  - enabled: 0
+    path: Assets/Scenes/zilScene.unity
+    guid: 3645c65058bfb1d498b3151cc60b07de
+  - enabled: 1
+    path: Assets/Scenes/BONNOONARScene.unity
+    guid: 67010678d1c6d054e81ca093bb4106e0
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 09b8b73921531ee4c87d4d151c59b5c0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 3ae93827892c71f4baf9c9a8b58a4537,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e72518969ce8cca40aabcf282e1193b2,
+      type: 2}
